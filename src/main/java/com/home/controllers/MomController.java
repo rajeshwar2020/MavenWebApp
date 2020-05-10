@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MomController {
 	
-	@ResponseBody
+//	@ResponseBody
 	@RequestMapping("/sugar")
 	public String giveSugar() {
-		return "Here is the sugar";
+		return "sugar";
 	}
 }
