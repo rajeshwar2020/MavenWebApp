@@ -18,7 +18,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>rajesh-frontcontroller</servlet-name>
-    <url-pattern>/home.com/*</url-pattern>
+    <url-pattern>/</url-pattern>
   </servlet-mapping>
 </web-app>
 
